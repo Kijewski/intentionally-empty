@@ -1,0 +1,10 @@
+[package]
+name = "intentionally-empty"
+description = "An intentionally empty crate."
+version = "1.0.0"
+categories = ["no-std", "rust-patterns"]
+edition = "2018"
+keywords = ["no_std", "rust", "testing"]
+license = "MIT-0"
+repository = "https://github.com/Kijewski/intentionally-empty"
+rust-version = "1.31.0"
